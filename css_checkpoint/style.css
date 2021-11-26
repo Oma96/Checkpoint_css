@@ -1,0 +1,38 @@
+h1{
+    color:darkblue;
+    font-size:xx-large;
+    text-align:center;
+   
+}
+h2{
+    color:blue;
+    font-size: x-large;
+    text-align:center
+}
+nav{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+    
+}
+.top {                    /* j'ai aligné le titre et la nav bar en les classant ensemble dans "top"*/
+    display: inline;
+    margin-right: 150px;
+    
+}
+header{
+    margin-bottom: 100px;
+}
+section{
+    margin-bottom: 50px;
+}
+body {
+    background-color:darkgray;
+    text-align: center;
+    font-size: large;
+    font-family: roboto;
+}
+
+
+
+
